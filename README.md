@@ -4,7 +4,7 @@
 #### 1. AuthorOperations
 #### 2. BookOperations
 #### 3. GenreOperations
-###  Operations are connected with other. Each of them includes CRUD functions with given restrictions:
+###  Operations are connected with each other. Each of them includes CRUD functions with given restrictions:
 #### A) New author can be added if it is not available in the database
 #### B) Author cannot be deleted if the author has at least 1 book in the database
 #### C) Author information can be updated.
